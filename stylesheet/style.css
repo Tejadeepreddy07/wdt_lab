@@ -1,0 +1,22 @@
+body{background-color:sliver;}
+img
+{
+	padding:50px;
+	width:150px;
+	heigth:150px;
+}
+table,td,th
+{
+	align:center;
+}
+td{
+	align:center;
+}
+h1{
+ text-align:center;
+}
+button{
+	align:center;
+	padding:15px,32px;
+	display:inline-block;
+}
