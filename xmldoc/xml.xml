@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<books>
+<book1>
+	<title>AI</title>
+	<author>vijay</author>
+	<isbn>200566</isbn>
+	<publisher>srit</publisher>
+	<edition>3rd edition</edition>
+	<price>300</price>
+</book1>
+<book2>
+	<title>wdt</title>
+	<author>somu</author>
+	<isbn>21566</isbn>
+	<publisher></publisher>
+	<edition>6th edition</edition>
+	<price>600</price>
+</book2>
+</books>
